@@ -21,6 +21,7 @@ Flexible, High Performance Convolutional Neural Networks for Image Classificatio
 Gradient-Based Learning Applied to Document Recognition
 
 2013 DQN
+
 Papers:
 Distributed Representations of Words and Phrases and their Compositionality
 Playing Atari with Deep Reinforcement Learning
@@ -28,6 +29,7 @@ GloVe: Global Vectors for Word Representation
 Learning from Delayed Rewards
 
 2014 Bengio & Ian Goodfellow: GAN
+
 Papers:
 Generative Adversarial Networks
 Neural Machine Translation by Jointly Learning to Align and Translate
@@ -37,6 +39,7 @@ A Style-Based Generator Architecture for Generative Adversarial Networks
 Decoupled Weight Decay Regularization
 
 2015 何恺明: ResNet
+
 Papers:
 Deep Residual Learning forImage Recognition 
 Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
@@ -48,16 +51,19 @@ Instance Normalization: The Missing Ingredient for Fast Stylization
 Group Normalization
 
 2016 DeepMind: AlphaGo
+
 Papers:
 Mastering the game of Go with deep neuralnetworks and tree search
 Mastering the Game of Go without Human Knowledge
 
 2017 Google: Attention is All You Need
+
 Papers:
 Attention Is All You Need
 Neural Architecture Search with Reinforcement Learning
 
 2018 Google: BERT
+
 Papers:
 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 Deep contextualized word representations
@@ -68,6 +74,7 @@ XLNet: Generalized Autoregressive Pretraining for Language Understanding
 Neural Machine Translation of Rare Words with Subword Units
 
 2019 MIT: Deep Double Descent
+
 Papers:
 Deep Double Descent: Where Bigger Models and More Data Hurt
 The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (https://leogao.dev/2019/12/31/The-Decade-of-Deep-Learning/)
