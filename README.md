@@ -24,7 +24,7 @@ Gradient-Based Learning Applied to Document Recognition
 
 Papers:  
 Distributed Representations of Words and Phrases and their Compositionality
-Playing Atari with Deep Reinforcement Learning （https://arxiv.org/pdf/1312.5602.pdf）
+Playing Atari with Deep Reinforcement Learning （https://arxiv.org/pdf/1312.5602.pdf）  
 GloVe: Global Vectors for Word Representation
 Learning from Delayed Rewards
 
